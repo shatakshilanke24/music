@@ -124,11 +124,6 @@
                     mysong.pause();
                 }
                 </script>
-
-
-
-
-
 </body>
 
 </html>
