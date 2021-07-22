@@ -9,8 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
-    <style>
-        *{
+</head>
+
+<body>
+    *{
     margin:0%;
     padding:0%;
 }
@@ -83,10 +85,6 @@
 }
 
 
-        </style>
-</head>
-
-<body>
     <div class="container">
         <div class="nav">
             <ul>
